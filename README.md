@@ -25,8 +25,5 @@ To enhance database performance, indexes have been created on `customer_id` and 
 2. **Load Data:** Insert the sample customer and product records.
 3. **Run Queries:** Perform data analysis using the created stored procedure and views to query order data.
 
-## Project Files
-SQL files and additional datasets related to the project are available in the [Project Files](link_here) section.
-
 ## Contact
 Feel free to reach out to me with any questions or feedback. I welcome contributions related to this project!
