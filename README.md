@@ -1,5 +1,6 @@
-# Title: Ecommerce SQL Project
 ---
+# Title: Ecommerce SQL Project
+
 Summary: E-Commerce Management Database Project
 Category: SQL
 Featured: true
