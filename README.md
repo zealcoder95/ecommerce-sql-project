@@ -1,12 +1,11 @@
 ---
-# Title: Ecommerce SQL Project
+title: Ecommerce SQL Project
+summary: E-Commerce Management Database Project
+category: SQL
+featured: true
+difficulty: Intermediate
 
-Summary: E-Commerce Management Database Project
-Category: SQL
-Featured: true
-Difficulty: Intermediate
-
-Technologies:
+technologies:
   - SQL
   - T-SQL
   - Database Design
@@ -14,17 +13,22 @@ Technologies:
   - Joins
   - Views
 
-Skills:
+skills:
   - Database Modeling
   - Normalization
   - Query Optimization
   - Relational Database Design
 
-Tags:
+tags:
   - SQL
   - Database
   - TSQL
 ---
+
+# Ecommerce SQL Project
+
+## Project Description
+This project aims to develop a comprehensive database management system for modern e-commerce platforms. The database includes essential components such as customer information, product data, and order management, enabling data analysis and reporting using SQL. The project encompasses various important SQL features, including database design, data insertion, indexing, views, and stored procedures.
 
 
 ## Project Description
