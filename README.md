@@ -1,9 +1,9 @@
 # Title: Ecommerce SQL Project
 
-**Summary:** Database management project
-**Category:** SQL
-**Featured:** true
-**Tags:**
+- **Summary:** Database management project
+- **Category:** SQL
+- **Featured:** true
+- **Tags:**
   - SQL
   - T-SQL
   - Database
