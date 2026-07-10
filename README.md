@@ -1,11 +1,11 @@
 ---
 Title: Ecommerce SQL Project
-summary: E-Commerce Management Database Project
-category: SQL
-featured: true
-difficulty: Intermediate
+Summary: E-Commerce Management Database Project
+Category: SQL
+Featured: true
+Difficulty: Intermediate
 
-technologies:
+Technologies:
   - SQL
   - T-SQL
   - Database Design
@@ -13,13 +13,13 @@ technologies:
   - Joins
   - Views
 
-skills:
+Skills:
   - Database Modeling
   - Normalization
   - Query Optimization
   - Relational Database Design
 
-tags:
+Tags:
   - SQL
   - Database
   - TSQL
